@@ -55,7 +55,7 @@ The below table recommends the food and drinks i like the most.Changes and flavo
 
 > Dynamic Programming -  A DP is an algorithmic technique which is usually based on a recurrent formula and one (or some) starting states. A sub-solution of the problem is constructed from previously found ones. DP solutions have a polynomial complexity which assures a much faster running time than other techniques like backtracking, brute-force etc.
 
-Source Link For Dynamic Programming - <http://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced>
+
 ```
 int m, n;
 vector<long long> dp_before(n), dp_cur(n);
@@ -93,6 +93,8 @@ int solve() {
     return dp_before[n - 1];
 }
 ```
+Source Link For Dynamic Programming - <http://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced>
+
 > Linear Algebra - Linear algebra, mathematical discipline that deals with vectors and matrices and, more generally, with vector spaces and linear transformations. Unlike other parts of mathematics that are frequently invigorated by new ideas and unsolved problems, linear algebra is very well understood. Its value lies in its many applications, from mathematical physics to modern algebra and coding theory.
 ```
 const double EPS = 1e-9;
@@ -161,3 +163,4 @@ double ternary_search(double l, double r) {
 }
 ```
 Source Link For Numerical Method - <https://en.wikipedia.org/wiki/Numerical_method>
+
