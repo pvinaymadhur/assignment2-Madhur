@@ -39,4 +39,12 @@ The below table recommends the food and drinks i like the most.Changes and flavo
 | Butter Bites |   Starbucks   |   $12.33   |
 | latte mocha  |   Starbucks   |   $15.98   |
 
+---
 
+# Best life changing quotes by great people
+
+> "When something is important enough, you do it even if the odds are not in your favor."
+>       -by *Elon Musk*.
+>
+> "When you do not know what to choose, show total involvement in everything."
+>       -by *SadhGuru*.
