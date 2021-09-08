@@ -26,5 +26,17 @@ It's a city build on water also know as **The floating city** and the city rests
 
 [link](https://github.com/pvinaymadhur/assignment2-Madhur/blob/main/AboutMe.md)
 
+---
+
+# Table Creation
+
+The below table recommends the food and drinks i like the most.Changes and flavours may vary from country to country.
+
+| Food/Drinks  |     location  |   Price    |
+| ----         |     -----     |   ---:     |
+| Choco fudge  |   Starbucks   |   $4.90    |
+| Cheese Cake  |   Starbucks   |   $10.45   |
+| Butter Bites |   Starbucks   |   $12.33   |
+| latte mocha  |   Starbucks   |   $15.98   |
 
 
