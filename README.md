@@ -55,6 +55,8 @@ The below table recommends the food and drinks i like the most.Changes and flavo
 
 > Dynamic Programming -  A DP is an algorithmic technique which is usually based on a recurrent formula and one (or some) starting states. A sub-solution of the problem is constructed from previously found ones. DP solutions have a polynomial complexity which assures a much faster running time than other techniques like backtracking, brute-force etc.
 
+Source Link For Dynamic Programming - <http://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced>
+
 
 ```
 int m, n;
@@ -93,9 +95,12 @@ int solve() {
     return dp_before[n - 1];
 }
 ```
-Source Link For Dynamic Programming - <http://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced>
+Quick link for code source - <https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html>
 
 > Linear Algebra - Linear algebra, mathematical discipline that deals with vectors and matrices and, more generally, with vector spaces and linear transformations. Unlike other parts of mathematics that are frequently invigorated by new ideas and unsolved problems, linear algebra is very well understood. Its value lies in its many applications, from mathematical physics to modern algebra and coding theory.
+
+Source Link For Linear Algebra - <https://www.britannica.com/science/linear-algebra>
+
 ```
 const double EPS = 1e-9;
 const int INF = 2; // it doesn't actually have to be infinity or a big number
@@ -143,9 +148,12 @@ int gauss (vector < vector<double> > a, vector<double> & ans) {
     return 1;
 }
 ```
-Source Link For Linear Algebra - <https://www.britannica.com/science/linear-algebra>
+Quick link for code source - <https://cp-algorithms.com/linear_algebra/linear-system-gauss.html>
 
 > Numerical Methods - In numerical analysis, a numerical method is a mathematical tool designed to solve numerical problems. The implementation of a numerical method with an appropriate convergence check in a programming language is called a numerical algorithm.
+
+Source Link For Numerical Method - <https://en.wikipedia.org/wiki/Numerical_method>
+
 ```
 double ternary_search(double l, double r) {
     double eps = 1e-9;              //set the error limit here
@@ -162,5 +170,5 @@ double ternary_search(double l, double r) {
     return f(l);                    //return the maximum of f(x) in [l, r]
 }
 ```
-Source Link For Numerical Method - <https://en.wikipedia.org/wiki/Numerical_method>
+Quick link for code source - <https://cp-algorithms.com/num_methods/ternary_search.html>
 
